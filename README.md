@@ -2,13 +2,11 @@
 
 ## Description
 
-The **Simon Says Game** is a web-based implementation of the classic memory game "Simon Says". The game challenges players to remember and replicate increasingly complex sequences of colors. This project is built using HTML, CSS, and JavaScript, providing an interactive and responsive user experience.
+The **Simon Says Game** is a web-based implementation of the classic memory game "Simon Says". The game challenges players to remember and replicate increasingly complex sequences of colors. This project is built using HTML, CSS, and JavaScript, providing an interactive user experience.
 
 ## Features
 
 - **Interactive Gameplay**: Players can interact with the game using their mouse or touch devices.
-- **Dynamic Sound Effects**: Each button press is accompanied by a unique sound, enhancing the user experience.
-- **Responsive Design**: The game layout adjusts to different screen sizes, making it accessible on both desktop and mobile devices.
 - **Increasing Difficulty**: The game becomes progressively more challenging as the sequence length increases.
 
 ## How to Play
