@@ -1,4 +1,4 @@
-##Simon-Say-Game
+## Simon-Say-Game
 
 ## Description
 
@@ -23,5 +23,9 @@ The **Simon Says Game** is a web-based implementation of the classic memory game
 - **HTML**: Structure of the game interface.
 - **CSS**: Styling for the game layout and buttons.
 - **JavaScript**: Game logic, including sequence generation, user interaction, and game state management.
+
+## Live Demo
+
+You can view the live Game [here](https://akshada77.github.io/Simon-Say-Game/).
 
  
